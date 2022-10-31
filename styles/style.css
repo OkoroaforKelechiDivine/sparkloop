@@ -9,6 +9,50 @@ body {
     font-family: 'TT Norms Pro', sans-serif;
 }
 
+.textColor span{
+    color: #723bff;
+}
+
+.text{
+    font-weight: 700;
+}
+
+.mt-40{
+    margin-top: 40px;
+}
+
+.header{
+    color: #171130;
+    /*font-family: Arial,sans-serif;*/
+    font-size: 52px;
+    font-weight: bold;
+    line-height: 1.25em;
+    letter-spacing: -0.75px;
+}
+
+.pt-20{
+    padding-top:10px;
+}
+
+.pt-40{
+    margin-top: 40px;
+}
+
+.box-height button{
+    height: 50px;
+    border: none;
+    width: 100px;
+}
+
+.box-height{
+    justify-content: space-between;
+}
+
+.hero-image img{
+   width: 75%;
+    margin-top: 100px;
+}
+
 /* Logo design */
 .logo img{
     width: 150px;
